@@ -25,7 +25,9 @@ This AI-powered web application predicts the likelihood of **Parkinson's Disease
 
 Watch the app in action:  
 
-![Demo GIF](https://your-gif-link.com/demo.gif)  
+![Dashboard](images/Prkinson's_Dashboard.png)
+![Dashboard](images/High_Chance.png)
+![Dashboard](images/Low_chance.png)
 
 Or try it locally:
 
